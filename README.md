@@ -29,7 +29,7 @@ Plot the images using plt.imshow().
 ## Program:
 ```Python
 Developed By: Pragatheesvaran AB
-Register  No: 212221240040
+Register  No: 212221240039
 ```
 
 ``` Python
